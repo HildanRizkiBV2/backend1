@@ -1,0 +1,19 @@
+{
+  "name": "e-commarce",
+  "version": "1.0.0",
+  "description": "rest api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HildanRizkiBV2/backend1.git"
+  },
+  "author": "hildan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HildanRizkiBV2/backend1/issues"
+  },
+  "homepage": "https://github.com/HildanRizkiBV2/backend1#readme"
+}
